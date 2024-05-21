@@ -14,12 +14,13 @@ where image-based search and recommendation systems come in.
 
 ### Result
 #### Input Images
+![image](https://github.com/V4NNUTH/Images-Based-Search-and-Recommendation-System/assets/113205407/2825a7f1-0418-435f-ada1-ed8ee1c6c5ee)
+
 #### Recommand Images product 
+![image](https://github.com/V4NNUTH/Images-Based-Search-and-Recommendation-System/assets/113205407/fe853746-1a76-4df0-ab21-2116531994c3)
 
 ## for Data you can download its from 
-[https://www.kaggle.com/paramaggarwal/
-fashion-product-images-small](https://www.kaggle.com/paramaggarwal/
-fashion-product-images-small)
+[https://www.kaggle.com/paramaggarwal/fashion-product-images-small](https://www.kaggle.com/paramaggarwal/fashion-product-images-small)
 
 ## Sections
 
